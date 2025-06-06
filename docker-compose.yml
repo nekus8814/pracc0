@@ -1,6 +1,9 @@
 services:
   logger:
    build: ./logger
+   environment:
+     - LOGFL=uptime
+     - DELAY=3
    volumes:
      - ./logs:/logs
    restart: on-failure

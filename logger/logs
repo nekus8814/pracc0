@@ -1,0 +1,45 @@
+starts at Fri Jun  6 10:33:26 PM EEST 2025
+-----------------
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           1.1G  1.7M  1.1G   1% /run
+/dev/sda2        49G   15G   32G  32% /
+tmpfs           5.1G     0  5.1G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.1G  132K  1.1G   1% /run/user/1000
+-----------------
+starts at Fri Jun  6 10:33:31 PM EEST 2025
+-----------------
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           1.1G  1.7M  1.1G   1% /run
+/dev/sda2        49G   15G   32G  32% /
+tmpfs           5.1G     0  5.1G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.1G  132K  1.1G   1% /run/user/1000
+-----------------
+starts at Fri Jun  6 10:33:36 PM EEST 2025
+-----------------
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           1.1G  1.7M  1.1G   1% /run
+/dev/sda2        49G   15G   32G  32% /
+tmpfs           5.1G     0  5.1G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.1G  132K  1.1G   1% /run/user/1000
+-----------------
+starts at Fri Jun  6 10:33:41 PM EEST 2025
+-----------------
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           1.1G  1.7M  1.1G   1% /run
+/dev/sda2        49G   15G   32G  32% /
+tmpfs           5.1G     0  5.1G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.1G  132K  1.1G   1% /run/user/1000
+-----------------
+starts at Fri Jun  6 10:33:46 PM EEST 2025
+-----------------
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           1.1G  1.7M  1.1G   1% /run
+/dev/sda2        49G   15G   32G  32% /
+tmpfs           5.1G     0  5.1G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.1G  132K  1.1G   1% /run/user/1000
+-----------------
