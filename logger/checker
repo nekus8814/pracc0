@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+
+LOG="/logs/das.log"
+count=0
+counta=0
+
+while [[ $count -lt 5 || $counta -lt 5 ]]; do
+ echo "starts at $(date)" >> $LOG
+ echo "$counta"
+ echo "-----------------" >> $LOG
+ df -h >> $LOG
+ echo "-----------------" >> $LOG
+ ((counta++))
+ ((count++))
+ sleep 5
+done

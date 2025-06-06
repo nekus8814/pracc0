@@ -1,0 +1,4 @@
+#Logs
+logs.txt
+*.log
+*.out

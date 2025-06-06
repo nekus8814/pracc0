@@ -1,0 +1,16 @@
+services:
+  logger:
+   build: ./logger
+   volumes:
+     - ./logs:/logs
+   restart: on-failure
+   depends_on:
+     - web
+
+  web:
+   image: nginx:alpine
+   ports:
+     - "8080:80"
+   volumes:
+    - ./web:/usr/share/nginx/html:ro
+
